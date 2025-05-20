@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Marina Gokova
+# 👋 Hi, I'm Marianna Gokova
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/marianna-gokova)](https://www.linkedin.com/in/marianna-gokova)
 
