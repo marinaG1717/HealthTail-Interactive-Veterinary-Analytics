@@ -12,8 +12,13 @@
 **Tech Stack:** Google BigQuery, SQL, Looker Studio  
 **Dashboard:** [View on Looker Studio](https://lookerstudio.google.com/s/pJO8lrwf1zs)
 
-![Analytics Illustration](https://user-images.githubusercontent.com/placeholder/analytics-illustration.png)
+<a href="https://github.com/marinaG1717/HealthTail-Interactive-Veterinary-Analytics/blob/54d559dad8278166624f9582a374dc222b290b8f/Common%20Pet%20Diseases%20by%20Type%2C%20Breed%20%26%20Time.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20PDF-Common%20Pet%20Diseases-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF">
+</a>
 
+<a href="https://github.com/marinaG1717/HealthTail-Interactive-Veterinary-Analytics/blob/54d559dad8278166624f9582a374dc222b290b8f/Common%20Pet%20Diseases%20by%20Type%2C%20Breed%20%26%20Time.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20PDF-Common%20Pet%20Diseases-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF">
+</a>
 ---
 
 ### 📊 Project Overview
